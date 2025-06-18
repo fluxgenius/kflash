@@ -221,12 +221,14 @@
                   </div>
           
                   <!-- Resume Button -->
-                  <a href="#" class="inline-flex items-center gap-2 px-6 py-3 bg-[#58A6FF]/10 hover:bg-[#58A6FF]/20 dark:hover:bg-[#58A6FF]/15 text-[#58A6FF] rounded-lg transition-all duration-300 group">
+                    <a href="https://res.cloudinary.com/dezdkxem5/image/upload/v1750249134/Godwin_Collins_resume_tf5qzs.pdf" 
+                     target="_blank"
+                     class="inline-flex items-center gap-2 px-6 py-3 bg-[#58A6FF]/10 hover:bg-[#58A6FF]/20 dark:hover:bg-[#58A6FF]/15 text-[#58A6FF] rounded-lg transition-all duration-300 group">
                     <svg class="w-5 h-5 group-hover:translate-y-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
                     </svg>
-                    <span class="font-medium">Download Resume</span>
-                  </a>
+                    <span class="font-medium">View Resume</span>
+                    </a>
                 </div>
               </div>
             </div>
@@ -391,14 +393,17 @@
                       <svg class="w-5 h-5 text-[#58A6FF]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7h4l3.5 8H17l3-6H9"/>
                       </svg>
-                      <h3 class="text-xl font-bold text-gray-800 dark:text-[#C9D1D9]">Senior Product Designer</h3>
+                      <h3 class="text-xl font-bold text-gray-800 dark:text-[#C9D1D9]">Interkel Nigeria Limited</h3>
                     </div>
                     <div class="flex flex-wrap gap-3 items-center mb-3">
-                      <span class="text-sm font-medium text-[#58A6FF] bg-[#58A6FF]/10 px-3 py-1 rounded-full">Inspire Creative Studio</span>
-                      <span class="text-sm text-gray-500 dark:text-[#58A6FF]/70">2022 - Present</span>
+                      <span class="text-sm font-medium text-[#58A6FF] bg-[#58A6FF]/10 px-3 py-1 rounded-full">Lagos, Nigeria</span>
+                      <span class="text-sm text-gray-500 dark:text-[#58A6FF]/70">2022 - 2024</span>
+                      <span class="text-sm text-gray-500 dark:text-[#58A6FF]/70 font-bold">Post: Educator & Promoter </span>
                     </div>
                     <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                      Lead end-to-end product design processes for web and mobile applications. Collaborated with cross-functional teams to design intuitive interfaces, conducted usability testing, and delivered high-fidelity prototypes that enhanced user engagement and retention.
+                      Facilitated workshops and training on digital tools and educational technology<br>
+                      Promoted innovative educational content and resources to schools and institutions<br>
+                      Collaborated with cross-functional teams to implement tech-based learning solutions.
                     </p>
                   </div>
                 </div>
@@ -411,41 +416,22 @@
                   <div class="p-6 rounded-xl bg-gray-50/50 dark:bg-[#161B22] hover:bg-gray-100/50 dark:hover:bg-[#161B22]/90 transition-all duration-300 group-hover:-translate-x-2">
                     <div class="flex gap-2 items-center mb-2">
                       <svg class="w-5 h-5 text-[#58A6FF]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h4l2 4h6a1 1 0 011 1v11a1 1 0 01-1 1H4a1 1 0 01-1-1V4z"/>
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7h4l3.5 8H17l3-6H9"/>
                       </svg>
-                      <h3 class="text-xl font-bold text-gray-800 dark:text-[#C9D1D9]">UI/UX Designer</h3>
+                      <h3 class="text-xl font-bold text-gray-800 dark:text-[#C9D1D9]">MDFT Trends</h3>
                     </div>
                     <div class="flex flex-wrap gap-3 items-center mb-3">
-                      <span class="text-sm font-medium text-[#58A6FF] bg-[#58A6FF]/10 px-3 py-1 rounded-full">Visionary Tech Ltd.</span>
-                      <span class="text-sm text-gray-500 dark:text-[#58A6FF]/70">2020 - 2022</span>
+                      <span class="text-sm font-medium text-[#58A6FF] bg-[#58A6FF]/10 px-3 py-1 rounded-full">Okota, Lagos, Nigeria</span>
+                      <span class="text-sm text-gray-500 dark:text-[#58A6FF]/70">2020 - 2021</span>
+                      <span class="text-sm text-gray-500 dark:text-[#58A6FF]/70 font-bold">Post: Graphic Designer, Content Creator & Social Media Manager</span>
                     </div>
                     <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                      Designed user-centric digital interfaces, conducted UX research, wireframing, and prototyping. Delivered pixel-perfect UI kits and collaborated closely with developers to ensure design consistency across platforms.
+                      Designed digital marketing content for social media and brand promotion<br>
+                      Managed daily posting schedules and audience engagement across platforms<br>
+                      Led branding projects and creative campaigns using Adobe and Figma tools
                     </p>
                   </div>
-                </div>
-          
-                <!-- Experience Item 3 -->
-                <div class="relative group">
-                  <div class="absolute -left-[34px] mt-1.5 h-6 w-6 rounded-full border-2 border-[#58A6FF]/30 bg-white dark:bg-[#161B22] flex items-center justify-center transition-colors duration-300">
-                    <div class="h-3 w-3 rounded-full bg-[#58A6FF] animate-pulse"></div>
-                  </div>
-                  <div class="p-6 rounded-xl bg-gray-50/50 dark:bg-[#161B22] hover:bg-gray-100/50 dark:hover:bg-[#161B22]/90 transition-all duration-300 group-hover:-translate-x-2">
-                    <div class="flex gap-2 items-center mb-2">
-                      <svg class="w-5 h-5 text-[#58A6FF]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M12 5l7 7-7 7"/>
-                      </svg>
-                      <h3 class="text-xl font-bold text-gray-800 dark:text-[#C9D1D9]">Graphic Designer</h3>
-                    </div>
-                    <div class="flex flex-wrap gap-3 items-center mb-3">
-                      <span class="text-sm font-medium text-[#58A6FF] bg-[#58A6FF]/10 px-3 py-1 rounded-full">BrandSpark Agency</span>
-                      <span class="text-sm text-gray-500 dark:text-[#58A6FF]/70">2018 - 2020</span>
-                    </div>
-                    <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                      Created brand identities, marketing collateral, and visual assets for clients across various industries. Worked on logos, posters, social media creatives, and packaging design with a strong focus on visual storytelling and brand consistency.
-                    </p>
-                  </div>
-                </div>
+                </div>                         
           
               </div>
             </div>
