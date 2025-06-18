@@ -105,7 +105,7 @@
         </div>
       </header>
 
-      <!-- Main Content -->    
+      <!-- Main-->    
       <main class="flex-grow py-10 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full">
           <!-- Hero Section -->
           <section id="home" class="relative container mx-auto px-4 min-h-screen flex items-center justify-center py-20 overflow-hidden">
